@@ -1,1 +1,3 @@
-# Digital-Media-Store-Data-Analysis
+# Digital Media Store Data Analysis
+
+This project involved querying a digital media store database using SQLite to extract and analyze sales and customer information.  The analysis covered various aspects, including customer demographics (location), sales agent performance (total sales, top performer in 2009), invoice details (totals, associated tracks), and track information (album, media type, genre).  The queries demonstrated proficiency in SQL joins (INNER, LEFT, FULL), filtering (WHERE), sorting (ORDER BY), aggregation (SUM, COUNT), and pattern matching (LIKE) to answer specific business questions related to sales trends, customer behavior, and employee performance.  This project effectively showcases the ability to retrieve, manipulate, and interpret data from a relational database using SQL.
