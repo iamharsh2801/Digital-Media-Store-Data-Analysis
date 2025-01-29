@@ -1,6 +1,6 @@
 --Dataset: Digital media store's artists, albums, media tracks, invoices, and customers
 --Source: Data Analytics Certificate Course, Break Into Tech
---Queried using: SQLite 3
+--Queried using: MySQL
 
 --First, answer questions prompted in the course.
 --#1. Show full name, customer ID, and country for all customers who are not in the USA
